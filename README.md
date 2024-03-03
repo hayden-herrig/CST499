@@ -1,2 +1,2 @@
 # CST499
-Project for CST499
+Student Registration Portal Final Project
